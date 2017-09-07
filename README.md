@@ -9,10 +9,10 @@ published: true
 Curated list of awesome papers for electronic health records(EHR) mining, machine learning, and deep learning.
 
 ## Contnet
-- Survey
-- Data mining
-- Machine learning
-- Deep learning
+- [Survey](#survey)
+- [Data mining](#data-mining)
+- [Machine learning](#machine-learning)
+- [Deep learning](#deep-learning)
 
 ### Survey
 Deep EHR: A survey of Recent Advances on Deep Learning Techniques for Electronic Health Record(EHR) Analysis, B. Shickel et al. [[pdf](https://arxiv.org/pdf/1706.03446.pdf)]
