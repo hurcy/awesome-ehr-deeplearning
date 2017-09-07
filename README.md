@@ -1,5 +1,5 @@
 
-# awesome-ehr-deeplearning
+# Awesome papers for EHR-based machine learning and deep learning
 
 Curated list of awesome papers for electronic health records(EHR) mining, machine learning, and deep learning.
 
