@@ -10,3 +10,5 @@ published: true
 
 - **A Deep Learning Interpretable Classifier for Diabetic Retinopathy Disease Grading**, Torre J. et al. [[pdf](https://arxiv.org/pdf/1712.08107)]
 
+- **Towards the Augmented Pathologist: Challenges of Explainable-AI in Digital Pathology**, Holzinger A. et al. [[pdf](https://arxiv.org/pdf/1712.06657)]
+
