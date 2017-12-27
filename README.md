@@ -1,5 +1,5 @@
 ---
-title: README
+title: EHR&ML/AI papers
 layout: post
 author: cinyoung.hur
 permalink: /readme/
