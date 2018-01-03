@@ -12,15 +12,15 @@ published: true
 
 We would like to provide a must-read papers in this domain. 
 
-## Content- [Survey](#survey)- [Data mining](#data-mining)- [Machine learning](#machine-learning)- [Deep learning](#deep-learning)#### Survey- **Deep EHR: A survey of Recent Advances on Deep Learning Techniques for Electronic Health Record(EHR) Analysis**, B. Shickel et al. [[pdf](https://arxiv.org/pdf/1706.03446.pdf)]### Data mining- **Predicting Rich Drug-Drug Interactions via Biomedical Knowledge Graphs and Text Jointly Embedding**, Wang M. et al. [[pdf](https://arxiv.org/pdf/1712.08875)]### Machine learning### Deep learning
+## Content- [Survey](#survey)- [Data mining](#data-mining)- [Machine learning](#machine-learning)- [Deep learning](#deep-learning)#### Survey- **Deep EHR: A survey of Recent Advances on Deep Learning Techniques for Electronic Health Record(EHR) Analysis**, B. Shickel et al. [[pdf](https://arxiv.org/pdf/1706.03446.pdf)]### Data mining- **Predicting Rich Drug-Drug Interactions via Biomedical Knowledge Graphs and Text Jointly Embedding**, M. Wang et al. [[pdf](https://arxiv.org/pdf/1712.08875)]### Machine learning### Deep learning
 
-- **How will the Internet of Things enable Augmented Personalized Health?**, Sheth A. et al.  [[pdf](https://arxiv.org/pdf/1801.00356)]- **Accurate reconstruction of image stimuli from human fMRI based on the decoding model with capsule network architecture**, Qiao K. et al. [[pdf](https://arxiv.org/pdf/1801.00602)]
+- **How will the Internet of Things enable Augmented Personalized Health?**, A. Sheth et al.  [[pdf](https://arxiv.org/pdf/1801.00356)]- **Accurate reconstruction of image stimuli from human fMRI based on the decoding model with capsule network architecture**, K. Qiao et al. [[pdf](https://arxiv.org/pdf/1801.00602)]
 
-- **Deep Patient: An Unsupervised Representation to Predict the Future of Patients from the Electronic Health Records**, Miotto R. et al. [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4869115/pdf/srep26094.pdf)]
+- **Deep Patient: An Unsupervised Representation to Predict the Future of Patients from the Electronic Health Records**, R. Miotto et al. [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4869115/pdf/srep26094.pdf)]
 
-- **A Deep Learning Interpretable Classifier for Diabetic Retinopathy Disease Grading**, Torre J. et al. [[pdf](https://arxiv.org/pdf/1712.08107)]
+- **A Deep Learning Interpretable Classifier for Diabetic Retinopathy Disease Grading**, J. Torre et al. [[pdf](https://arxiv.org/pdf/1712.08107)]
 
-- **Towards the Augmented Pathologist: Challenges of Explainable-AI in Digital Pathology**, Holzinger A. et al. [[pdf](https://arxiv.org/pdf/1712.06657)]
+- **Towards the Augmented Pathologist: Challenges of Explainable-AI in Digital Pathology**, A. Holzinger et al. [[pdf](https://arxiv.org/pdf/1712.06657)]
 
 ## Acknowledgement
 
