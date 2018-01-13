@@ -22,6 +22,10 @@ We would like to provide a must-read papers in this domain.
 
 - **Towards the Augmented Pathologist: Challenges of Explainable-AI in Digital Pathology**, A. Holzinger et al. [[pdf](https://arxiv.org/pdf/1712.06657)]
 
+- **Probabilistic Prognostic Estimates of Survival in Metastatic Cancer Patients (PPES-Met) Utilizing Free-Text Clinical Narratives**, I. Banerjee et al. [[pdf]([https://arxiv.org/pdf/1801.03058](https://arxiv.org/pdf/1801.03058))]
+
+- **Biomedical Question Answering via Weighted Neural Network Passage Retrieval**, F. Galkó et al. [[pdf](https://arxiv.org/pdf/1801.02832)]
+
 ## Acknowledgement
 
 Thank you for all your contributions. Please make sure to read the [contributing guide](https://github.com/hurcy/awesome-ehr-deeplearning/blob/master/Contributing.md) before you make a pull request.
