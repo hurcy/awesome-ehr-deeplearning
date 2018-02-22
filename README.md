@@ -24,7 +24,9 @@ We would like to provide a must-read papers in this domain.
 
 - **Probabilistic Prognostic Estimates of Survival in Metastatic Cancer Patients (PPES-Met) Utilizing Free-Text Clinical Narratives**, I. Banerjee et al. [[pdf]([https://arxiv.org/pdf/1801.03058](https://arxiv.org/pdf/1801.03058))]
 
-- **Biomedical Question Answering via Weighted Neural Network Passage Retrieval**, F. Galkó et al. [[pdf](https://arxiv.org/pdf/1801.02832)]
+- **Biomedical Question Answering via Weighted Neural Network Passage Retrieval**, F. Galkó et al. [[pdf]([https://arxiv.org/pdf/1801.02832](https://arxiv.org/pdf/1801.02832))]
+
+- **Expert System for Diagnosis of Chest Diseases Using Neural Networks**, I. Kayali et al. [[pdf](https://arxiv.org/abs/1802.06866)]
 
 ## Acknowledgement
 
