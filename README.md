@@ -1,8 +1,7 @@
 ---
-title: EHR&ML/AI papers
+title: EHR&AI papers
 layout: post
 author: cinyoung.hur
-permalink: /readme/
 source-id: 1T7AcKjzuc6WpsA14Y_s4cflA_5JyncCF9QISDKBf25o
 published: true
 ---
@@ -12,7 +11,7 @@ published: true
 
 We would like to provide a must-read papers in this domain. 
 
-## Content- [Survey](#survey)- [Data mining](#data-mining)- [Machine learning](#machine-learning)- [Deep learning](#deep-learning)#### Survey- **Deep EHR: A survey of Recent Advances on Deep Learning Techniques for Electronic Health Record(EHR) Analysis**, B. Shickel et al. [[pdf](https://arxiv.org/pdf/1706.03446.pdf)]### Data mining- **Predicting Rich Drug-Drug Interactions via Biomedical Knowledge Graphs and Text Jointly Embedding**, M. Wang et al. [[pdf](https://arxiv.org/pdf/1712.08875)]### Machine learning### Deep learning
+## Content- [Survey](#survey)- [Data mining](#data-mining)- [Machine learning](#machine-learning)- [Deep learning](#deep-learning)#### Survey- **Deep EHR: A survey of Recent Advances on Deep Learning Techniques for Electronic Health Record(EHR) Analysis**, B. Shickel et al. [[pdf](https://arxiv.org/pdf/1706.03446.pdf)]### Data mining- **Predicting Rich Drug-Drug Interactions via Biomedical Knowledge Graphs and Text Jointly Embedding**, M. Wang et al. [[pdf](https://arxiv.org/pdf/1712.08875)]### Machine learning & Deep learning
 
 - **How will the Internet of Things enable Augmented Personalized Health?**, A. Sheth et al.  [[pdf](https://arxiv.org/pdf/1801.00356)]- **Accurate reconstruction of image stimuli from human fMRI based on the decoding model with capsule network architecture**, K. Qiao et al. [[pdf](https://arxiv.org/pdf/1801.00602)]
 
@@ -26,7 +25,9 @@ We would like to provide a must-read papers in this domain.
 
 - **Biomedical Question Answering via Weighted Neural Network Passage Retrieval**, F. Galkó et al. [[pdf]([https://arxiv.org/pdf/1801.02832](https://arxiv.org/pdf/1801.02832))]
 
-- **Expert System for Diagnosis of Chest Diseases Using Neural Networks**, I. Kayali et al. [[pdf](https://arxiv.org/abs/1802.06866)]
+- **Expert System for Diagnosis of Chest Diseases Using Neural Networks**, I. Kayali et al. [[pdf]([https://arxiv.org/abs/1802.06866](https://arxiv.org/abs/1802.06866))]
+
+- **Scalable and accurate deep learning with electronic health records**, A. Rajkomar et al. [[pdf](https://www.nature.com/articles/s41746-018-0029-1.pdf)]
 
 ## Acknowledgement
 
