@@ -29,6 +29,8 @@ We would like to provide a must-read papers in this domain.
 
 - **Scalable and accurate deep learning with electronic health records**, A. Rajkomar et al. [[pdf](https://www.nature.com/articles/s41746-018-0029-1.pdf)]
 
+- **Deep Representation for Patient Visits from Electronic Health Records**, J. Escudie et al. [[pdf](https://arxiv.org/pdf/1803.09533.pdf)]
+
 ## Acknowledgement
 
 Thank you for all your contributions. Please make sure to read the [contributing guide](https://github.com/hurcy/awesome-ehr-deeplearning/blob/master/Contributing.md) before you make a pull request.
