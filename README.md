@@ -44,7 +44,9 @@ We would like to provide a must-read papers in this domain.
 
 - **Natural Language Generation for Electronic Health Records**, S. Lee, [[pdf](https://arxiv.org/pdf/1806.01353.pdf)]
 
-- **Improved cardiovascular risk prediction using nonparametric regression and electronic health record data**, E. H. Kennedy et al. [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4081533/pdf/nihms429046.pdf)]
+- **Improvement in Cardiovascular Risk Prediction with Electronic Health Records**, M. M. Pike et al. [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4874910/pdf/nihms-767362.pdf)]
+
+- 
 
 ***
 
