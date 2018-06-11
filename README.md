@@ -12,7 +12,13 @@ published: true
 
 We would like to provide a must-read papers in this domain. 
 
-## Content- [Survey](#survey)- [Data mining](#data-mining)- [Machine learning](#machine-learning)- [Deep learning](#deep-learning)#### Survey- **Deep EHR: A survey of Recent Advances on Deep Learning Techniques for Electronic Health Record(EHR) Analysis**, B. Shickel et al. [[pdf](https://arxiv.org/pdf/1706.03446.pdf)]- **Opportunities in Machine Learning for Healthcare**, M. Ghassemi et al. [[pdf](https://arxiv.org/pdf/1806.00388.pdf)]
+## Content- [Survey](#survey)- [Data mining](#data-mining)- [Machine learning](#machine-learning)- [Deep learning](#deep-learning)***
+
+### Survey- **Deep EHR: A survey of Recent Advances on Deep Learning Techniques for Electronic Health Record(EHR) Analysis**, B. Shickel et al. [[pdf](https://arxiv.org/pdf/1706.03446.pdf)]- **Opportunities in Machine Learning for Healthcare**, M. Ghassemi et al. [[pdf](https://arxiv.org/pdf/1806.00388.pdf)]
+
+- **Big Data and Machine Learning in Health Care**, A. L. Beam et al. [[pdf](http://www.fsk.it/attach/Content/News/6493/o/170404_1.pdf)]
+
+***
 
 ### Data mining- **Predicting Rich Drug-Drug Interactions via Biomedical Knowledge Graphs and Text Jointly Embedding**, M. Wang et al. [[pdf](https://arxiv.org/pdf/1712.08875)]### Machine learning & Deep learning
 
@@ -38,7 +44,9 @@ We would like to provide a must-read papers in this domain.
 
 - **Natural Language Generation for Electronic Health Records**, S. Lee, [[pdf](https://arxiv.org/pdf/1806.01353.pdf)]
 
-**
+- **Improved cardiovascular risk prediction using nonparametric regression and electronic health record data**, E. H. Kennedy et al. [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4081533/pdf/nihms429046.pdf)]
+
+***
 
 ## Acknowledgement
 
