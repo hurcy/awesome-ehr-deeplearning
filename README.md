@@ -2,6 +2,7 @@
 title: EHR&AI papers
 layout: post
 author: cinyoung.hur
+permalink: /ehr&ai-papers/
 source-id: 1T7AcKjzuc6WpsA14Y_s4cflA_5JyncCF9QISDKBf25o
 published: true
 ---
@@ -11,7 +12,9 @@ published: true
 
 We would like to provide a must-read papers in this domain. 
 
-## Content- [Survey](#survey)- [Data mining](#data-mining)- [Machine learning](#machine-learning)- [Deep learning](#deep-learning)#### Survey- **Deep EHR: A survey of Recent Advances on Deep Learning Techniques for Electronic Health Record(EHR) Analysis**, B. Shickel et al. [[pdf](https://arxiv.org/pdf/1706.03446.pdf)]### Data mining- **Predicting Rich Drug-Drug Interactions via Biomedical Knowledge Graphs and Text Jointly Embedding**, M. Wang et al. [[pdf](https://arxiv.org/pdf/1712.08875)]### Machine learning & Deep learning
+## Content- [Survey](#survey)- [Data mining](#data-mining)- [Machine learning](#machine-learning)- [Deep learning](#deep-learning)#### Survey- **Deep EHR: A survey of Recent Advances on Deep Learning Techniques for Electronic Health Record(EHR) Analysis**, B. Shickel et al. [[pdf](https://arxiv.org/pdf/1706.03446.pdf)]- **Opportunities in Machine Learning for Healthcare**, M. Ghassemi et al. [[pdf](https://arxiv.org/pdf/1806.00388.pdf)]
+
+### Data mining- **Predicting Rich Drug-Drug Interactions via Biomedical Knowledge Graphs and Text Jointly Embedding**, M. Wang et al. [[pdf](https://arxiv.org/pdf/1712.08875)]### Machine learning & Deep learning
 
 - **How will the Internet of Things enable Augmented Personalized Health?**, A. Sheth et al.  [[pdf](https://arxiv.org/pdf/1801.00356)]- **Accurate reconstruction of image stimuli from human fMRI based on the decoding model with capsule network architecture**, K. Qiao et al. [[pdf](https://arxiv.org/pdf/1801.00602)]
 
@@ -30,6 +33,12 @@ We would like to provide a must-read papers in this domain.
 - **Scalable and accurate deep learning with electronic health records**, A. Rajkomar et al. [[pdf](https://www.nature.com/articles/s41746-018-0029-1.pdf)]
 
 - **Deep Representation for Patient Visits from Electronic Health Records**, J. Escudie et al. [[pdf](https://arxiv.org/pdf/1803.09533.pdf)]
+
+- **HeteroMed: Heterogeneous Information Network for Medical Diagnosis**, A. Hosseini et al. [[pdf]([https://arxiv.org/pdf/1804.08052.pdf](https://arxiv.org/pdf/1804.08052.pdf))]
+
+- **Natural Language Generation for Electronic Health Records**, S. Lee, [[pdf](https://arxiv.org/pdf/1806.01353.pdf)]
+
+**
 
 ## Acknowledgement
 
