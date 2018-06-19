@@ -46,7 +46,7 @@ We would like to provide a must-read papers in this domain.
 
 - **Improvement in Cardiovascular Risk Prediction with Electronic Health Records**, M. M. Pike et al. [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4874910/pdf/nihms-767362.pdf)]
 
-- 
+- **Generating Multi-label Discrete Patient Records using Generative Adversarial Networks**, E. Choi, et al. [[pdf](https://arxiv.org/pdf/1703.06490)]
 
 ***
 
