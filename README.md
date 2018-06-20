@@ -18,6 +18,8 @@ We would like to provide a must-read papers in this domain.
 
 - **Big Data and Machine Learning in Health Care**, A. L. Beam et al. [[pdf](http://www.fsk.it/attach/Content/News/6493/o/170404_1.pdf)]
 
+- **Big data from electronic health records for early and late translational cardiovascular research: challenges and potential**, H. Hemingway et al. [[pdf](https://academic.oup.com/eurheartj/article/39/16/1481/4096831)]
+
 ***
 
 ### Data mining- **Predicting Rich Drug-Drug Interactions via Biomedical Knowledge Graphs and Text Jointly Embedding**, M. Wang et al. [[pdf](https://arxiv.org/pdf/1712.08875)]### Machine learning & Deep learning
