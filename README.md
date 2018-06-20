@@ -20,11 +20,11 @@ We would like to provide a must-read papers in this domain.
 
 - **Big data from electronic health records for early and late translational cardiovascular research: challenges and potential**, H. Hemingway et al. [[pdf](https://academic.oup.com/eurheartj/article/39/16/1481/4096831)]
 
+- **Mining Electronic Health Records: A Survey**, P. Yadav et al. [[pdf](https://arxiv.org/pdf/1702.03222)]
+
 ***
 
 ### Data mining- **Predicting Rich Drug-Drug Interactions via Biomedical Knowledge Graphs and Text Jointly Embedding**, M. Wang et al. [[pdf](https://arxiv.org/pdf/1712.08875)]### Machine learning & Deep learning
-
-- **How will the Internet of Things enable Augmented Personalized Health?**, A. Sheth et al.  [[pdf](https://arxiv.org/pdf/1801.00356)]- **Accurate reconstruction of image stimuli from human fMRI based on the decoding model with capsule network architecture**, K. Qiao et al. [[pdf](https://arxiv.org/pdf/1801.00602)]
 
 - **Deep Patient: An Unsupervised Representation to Predict the Future of Patients from the Electronic Health Records**, R. Miotto et al. [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4869115/pdf/srep26094.pdf)]
 
