@@ -8,7 +8,7 @@ published: true
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
-# Awesome EHR-based machine learning papers
+# Awesome EHR-based deep learning papers
 
 Curated list of awesome papers for electronic health records(EHR) mining, machine learning, and deep learning.
 
