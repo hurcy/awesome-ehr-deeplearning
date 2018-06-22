@@ -1,7 +1,6 @@
 ---
 title: EHR&AI papers
 layout: post
-author: cinyoung.hur
 permalink: /ehr&ai-papers/
 source-id: 1T7AcKjzuc6WpsA14Y_s4cflA_5JyncCF9QISDKBf25o
 published: true
@@ -12,7 +11,9 @@ published: true
 
 We would like to provide a must-read papers in this domain. 
 
-## Content- [Survey](#survey)- [Data mining](#data-mining)- [Machine learning](#machine-learning)- [Deep learning](#deep-learning)***
+## Content- [Survey](#survey)- [Data mining](#data-mining)- [Machine learning](#machine-learning)- [Deep learning](#deep-learning)- [Visualization](#visualization)
+
+***
 
 ### Survey- **Deep EHR: A survey of Recent Advances on Deep Learning Techniques for Electronic Health Record(EHR) Analysis**, B. Shickel et al. [[pdf](https://arxiv.org/pdf/1706.03446.pdf)]- **Opportunities in Machine Learning for Healthcare**, M. Ghassemi et al. [[pdf](https://arxiv.org/pdf/1806.00388.pdf)]
 
@@ -32,23 +33,31 @@ We would like to provide a must-read papers in this domain.
 
 - **Towards the Augmented Pathologist: Challenges of Explainable-AI in Digital Pathology**, A. Holzinger et al. [[pdf](https://arxiv.org/pdf/1712.06657)]
 
-- **Probabilistic Prognostic Estimates of Survival in Metastatic Cancer Patients (PPES-Met) Utilizing Free-Text Clinical Narratives**, I. Banerjee et al. [[pdf]([https://arxiv.org/pdf/1801.03058](https://arxiv.org/pdf/1801.03058))]
+- **Probabilistic Prognostic Estimates of Survival in Metastatic Cancer Patients (PPES-Met) Utilizing Free-Text Clinical Narratives**, I. Banerjee et al. [[pdf](https://arxiv.org/pdf/1801.03058)]
 
-- **Biomedical Question Answering via Weighted Neural Network Passage Retrieval**, F. Galkó et al. [[pdf]([https://arxiv.org/pdf/1801.02832](https://arxiv.org/pdf/1801.02832))]
+- **Biomedical Question Answering via Weighted Neural Network Passage Retrieval**, F. Galkó et al. [[pdf](https://arxiv.org/pdf/1801.02832)]
 
-- **Expert System for Diagnosis of Chest Diseases Using Neural Networks**, I. Kayali et al. [[pdf]([https://arxiv.org/abs/1802.06866](https://arxiv.org/abs/1802.06866))]
+- **Expert System for Diagnosis of Chest Diseases Using Neural Networks**, I. Kayali et al. [[pdf](https://arxiv.org/abs/1802.06866)]
 
 - **Scalable and accurate deep learning with electronic health records**, A. Rajkomar et al. [[pdf](https://www.nature.com/articles/s41746-018-0029-1.pdf)]
 
 - **Deep Representation for Patient Visits from Electronic Health Records**, J. Escudie et al. [[pdf](https://arxiv.org/pdf/1803.09533.pdf)]
 
-- **HeteroMed: Heterogeneous Information Network for Medical Diagnosis**, A. Hosseini et al. [[pdf]([https://arxiv.org/pdf/1804.08052.pdf](https://arxiv.org/pdf/1804.08052.pdf))]
+- **HeteroMed: Heterogeneous Information Network for Medical Diagnosis**, A. Hosseini et al. [[pdf](https://arxiv.org/pdf/1804.08052.pdf)]
 
 - **Natural Language Generation for Electronic Health Records**, S. Lee, [[pdf](https://arxiv.org/pdf/1806.01353.pdf)]
 
 - **Improvement in Cardiovascular Risk Prediction with Electronic Health Records**, M. M. Pike et al. [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4874910/pdf/nihms-767362.pdf)]
 
 - **Generating Multi-label Discrete Patient Records using Generative Adversarial Networks**, E. Choi, et al. [[pdf](https://arxiv.org/pdf/1703.06490)]
+
+### Visualization
+
+- **Iterative cohort analysis and exploration**, Z. Zhang et al. [[pdf](http://perer.org/papers/adamPerer-CAVA-IVS2014.pdf)]
+
+- **PhenoStacks: Cross-Sectional Cohort Phenotype Comparison Visualizations**, M. Glueck et al. [[pdf](https://hal.inria.fr/hal-01353233/file/PhenoStacks_VAST2016%20%281%29.pdf)]
+
+- **An Evaluation of Visual Analytics Approaches to Comparing Cohorts of Event Sequences**, S. Malik et al. [[pdf](http://www.cs.umd.edu/hcil/trs/2014-28/2014-28.pdf)]- **Using Visual Analytics to Interpret Predictive Machine Learning Models**, J. Krause et al. [[pdf](https://arxiv.org/pdf/1606.05685.pdf)]- **Visualizing Patient Timelines in the Intensive Care Unit**, D. L. Lambert et al. [[pdf](https://arxiv.org/pdf/1806.00397.pdf)]
 
 ***
 
