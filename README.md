@@ -5,17 +5,32 @@ permalink: /ehr&ai-papers/
 source-id: 1T7AcKjzuc6WpsA14Y_s4cflA_5JyncCF9QISDKBf25o
 published: true
 ---
-# Awesome EHR-based machine learning papersCurated list of awesome papers for electronic health records(EHR) mining, machine learning, and deep learning.
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+
+# Awesome EHR-based machine learning papers
+
+Curated list of awesome papers for electronic health records(EHR) mining, machine learning, and deep learning.
 
 ## Background
 
 We would like to provide a must-read papers in this domain. 
 
-## Content- [Survey](#survey)- [Data mining](#data-mining)- [Machine learning](#machine-learning)- [Deep learning](#deep-learning)- [Visualization](#visualization)
 
-***
+## Content
+- [Survey](#survey)
+- [Data mining](#data-mining)
+- [Machine learning](#machine-learning)
+- [Deep learning](#deep-learning)
+- [Visualization](#visualization)
 
-### Survey- **Deep EHR: A survey of Recent Advances on Deep Learning Techniques for Electronic Health Record(EHR) Analysis**, B. Shickel et al. [[pdf](https://arxiv.org/pdf/1706.03446.pdf)]- **Opportunities in Machine Learning for Healthcare**, M. Ghassemi et al. [[pdf](https://arxiv.org/pdf/1806.00388.pdf)]
+
+***
+
+
+### Survey
+- **Deep EHR: A survey of Recent Advances on Deep Learning Techniques for Electronic Health Record(EHR) Analysis**, B. Shickel et al. [[pdf](https://arxiv.org/pdf/1706.03446.pdf)]
+- **Opportunities in Machine Learning for Healthcare**, M. Ghassemi et al. [[pdf](https://arxiv.org/pdf/1806.00388.pdf)]
 
 - **Big Data and Machine Learning in Health Care**, A. L. Beam et al. [[pdf](http://www.fsk.it/attach/Content/News/6493/o/170404_1.pdf)]
 
@@ -25,7 +40,11 @@ We would like to provide a must-read papers in this domain.
 
 ***
 
-### Data mining- **Predicting Rich Drug-Drug Interactions via Biomedical Knowledge Graphs and Text Jointly Embedding**, M. Wang et al. [[pdf](https://arxiv.org/pdf/1712.08875)]### Machine learning & Deep learning
+
+### Data mining
+- **Predicting Rich Drug-Drug Interactions via Biomedical Knowledge Graphs and Text Jointly Embedding**, M. Wang et al. [[pdf](https://arxiv.org/pdf/1712.08875)]
+
+### Machine learning & Deep learning
 
 - **Deep Patient: An Unsupervised Representation to Predict the Future of Patients from the Electronic Health Records**, R. Miotto et al. [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4869115/pdf/srep26094.pdf)]
 
@@ -57,7 +76,9 @@ We would like to provide a must-read papers in this domain.
 
 - **PhenoStacks: Cross-Sectional Cohort Phenotype Comparison Visualizations**, M. Glueck et al. [[pdf](https://hal.inria.fr/hal-01353233/file/PhenoStacks_VAST2016%20%281%29.pdf)]
 
-- **An Evaluation of Visual Analytics Approaches to Comparing Cohorts of Event Sequences**, S. Malik et al. [[pdf](http://www.cs.umd.edu/hcil/trs/2014-28/2014-28.pdf)]- **Using Visual Analytics to Interpret Predictive Machine Learning Models**, J. Krause et al. [[pdf](https://arxiv.org/pdf/1606.05685.pdf)]- **Visualizing Patient Timelines in the Intensive Care Unit**, D. L. Lambert et al. [[pdf](https://arxiv.org/pdf/1806.00397.pdf)]
+- **An Evaluation of Visual Analytics Approaches to Comparing Cohorts of Event Sequences**, S. Malik et al. [[pdf](http://www.cs.umd.edu/hcil/trs/2014-28/2014-28.pdf)]
+- **Using Visual Analytics to Interpret Predictive Machine Learning Models**, J. Krause et al. [[pdf](https://arxiv.org/pdf/1606.05685.pdf)]
+- **Visualizing Patient Timelines in the Intensive Care Unit**, D. L. Lambert et al. [[pdf](https://arxiv.org/pdf/1806.00397.pdf)]
 
 ***
 
