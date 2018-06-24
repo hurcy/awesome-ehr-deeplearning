@@ -40,6 +40,7 @@ Over the past decade, the volume of Electronic Health Records has exploded. This
 
 - **Predicting inpatient clinical order patterns with probabilistic topic models vs conventional order sets**, J. Chen et al. [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5391730/pdf/ocw136.pdf)]
 
+- **Disease Heritability Inferred from Familial Relationships Reported in Medical Records**, F. Polubriaginof et al. [pdf]
 
 ### Machine learning & Deep learning
 
