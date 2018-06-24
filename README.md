@@ -1,10 +1,3 @@
----
-title: EHR&AI papers
-layout: post
-permalink: /ehr&ai-papers/
-source-id: 1T7AcKjzuc6WpsA14Y_s4cflA_5JyncCF9QISDKBf25o
-published: true
----
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
@@ -12,10 +5,10 @@ published: true
 
 Curated list of awesome papers for electronic health records(EHR) mining, machine learning, and deep learning.
 
+
 ## Background
 
-We would like to provide a must-read papers in this domain. 
-
+Over the past decade, the volume of Electronic Health Records has exploded. This data has great potential. Thanks to advances in machine learning and deep-running techniques, health records have been converted into mathematical expressions. A collection of must-read papers on various EHR topics - recent research trends, applications to predict patient outcomes, visualization of complex data.
 
 ## Content
 - [Survey](#survey)
