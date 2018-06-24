@@ -31,11 +31,15 @@ Over the past decade, the volume of Electronic Health Records has exploded. This
 
 - **Mining Electronic Health Records: A Survey**, P. Yadav et al. [[pdf](https://arxiv.org/pdf/1702.03222)]
 
-***
 
 
 ### Data mining
 - **Predicting Rich Drug-Drug Interactions via Biomedical Knowledge Graphs and Text Jointly Embedding**, M. Wang et al. [[pdf](https://arxiv.org/pdf/1712.08875)]
+
+- **Modeling temporal relationships in large scale clinical associations**, D. Hanauer et al. [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3638191/pdf/amiajnl-2012-001117.pdf)]
+
+- **Predicting inpatient clinical order patterns with probabilistic topic models vs conventional order sets**, J. Chen et al. [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5391730/pdf/ocw136.pdf)]
+
 
 ### Machine learning & Deep learning
 
