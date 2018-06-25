@@ -68,6 +68,8 @@ Over the past decade, the volume of Electronic Health Records has exploded. This
 
 - **Generating Multi-label Discrete Patient Records using Generative Adversarial Networks**, E. Choi, et al. [[pdf](https://arxiv.org/pdf/1703.06490)]
 
+- **A machine learning model to predict the risk of 30-day readmissions in patients with heart failure: a retrospective analysis of electronic medical records data**, S. B. Golas et al. [[pdf](https://bmcmedinformdecismak.biomedcentral.com/track/pdf/10.1186/s12911-018-0620-z)]
+
 ### Visualization
 
 - **Iterative cohort analysis and exploration**, Z. Zhang et al. [[pdf](http://perer.org/papers/adamPerer-CAVA-IVS2014.pdf)]
