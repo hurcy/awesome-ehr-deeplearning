@@ -70,17 +70,17 @@ Over the past decade, the volume of Electronic Health Records has exploded. This
 
 - **A machine learning model to predict the risk of 30-day readmissions in patients with heart failure: a retrospective analysis of electronic medical records data**, S. B. Golas et al. [[pdf](https://bmcmedinformdecismak.biomedcentral.com/track/pdf/10.1186/s12911-018-0620-z)]
 
-- ** Countdown Regression: Sharp and Calibrated Survival Predictions**, A. Avati et al. [[pdf](https://arxiv.org/pdf/1806.08324.pdf)]
+- **Countdown Regression: Sharp and Calibrated Survival Predictions**, A. Avati et al. [[pdf](https://arxiv.org/pdf/1806.08324.pdf)]
 
-- ** Natural Language Processing for EHR-Based Computational Phenotyping**, Z. Zeng et al. [[pdf](https://arxiv.org/pdf/1806.04820.pdf)]
+- **Natural Language Processing for EHR-Based Computational Phenotyping**, Z. Zeng et al. [[pdf](https://arxiv.org/pdf/1806.04820.pdf)]
 
-- ** Using Clinical Narratives and Structured Data to Identify Distant Recurrences in Breast Cancer**, Z. Zeng et al. [[pdf](https://arxiv.org/pdf/1806.04820.pdf)]
+- **Using Clinical Narratives and Structured Data to Identify Distant Recurrences in Breast Cancer**, Z. Zeng et al. [[pdf](https://arxiv.org/pdf/1806.04820.pdf)]
 
-- ** Mixed Effect Composite RNN-GP: A Personalized and Reliable Prediction Model for Healthcare**, I. Chung et al. [[pdf](https://arxiv.org/pdf/1806.01551.pdf)]
+- **Mixed Effect Composite RNN-GP: A Personalized and Reliable Prediction Model for Healthcare**, I. Chung et al. [[pdf](https://arxiv.org/pdf/1806.01551.pdf)]
 
-- ** Uncertainty-Aware Attention for Reliable Interpretation and Prediction**, J. Heo et al. [[pdf](https://arxiv.org/pdf/1805.09653)]
+- **Uncertainty-Aware Attention for Reliable Interpretation and Prediction**, J. Heo et al. [[pdf](https://arxiv.org/pdf/1805.09653)]
 
-- ** Learning Patient Representations from Text**, D. Dligach, et al. [[pdf](https://arxiv.org/pdf/1805.02096.pdf)]
+- **Learning Patient Representations from Text**, D. Dligach, et al. [[pdf](https://arxiv.org/pdf/1805.02096.pdf)]
 
 
 ### Visualization
