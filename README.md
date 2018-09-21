@@ -82,6 +82,9 @@ Over the past decade, the volume of EHR has exploded. This data has great potent
 
 - **Learning Patient Representations from Text**, D. Dligach, et al. [[pdf](https://arxiv.org/pdf/1805.02096.pdf)]
 
+- **Countdown Regression: Sharp and Calibrated Survival Predictions**, A. Avati, et al. [[pdf](https://arxiv.org/pdf/1806.08324)]
+
+- **Supervised Reinforcement Learning with Recurrent Neural Network for Dynamic Treatment Recommendation**, L. Wang, et al. [[pdf](https://arxiv.org/pdf/1807.01473)]
 
 ### Visualization
 
