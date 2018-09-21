@@ -8,7 +8,7 @@ Curated list of awesome papers for electronic health records (EHR) mining, machi
 
 Over the past decade, the volume of EHR has exploded. This data has great potential. Thanks to advances in machine learning and deep learning techniques, health records have been converted into mathematical representation. We make a collection of must-read papers on various EHR topics - recent research trends, applications to predict patient outcomes, visualization of complex data.
 
-## Content
+## Contents
 - [Survey](#survey)
 - [Data mining](#data-mining)
 - [Machine learning](#machine-learning)
