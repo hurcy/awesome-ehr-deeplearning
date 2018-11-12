@@ -43,7 +43,14 @@ Over the past decade, the volume of EHR has exploded. This data has great potent
 - [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3638191/pdf/amiajnl-2012-001117.pdf)] - **Modeling temporal relationships in large scale clinical associations**, D. Hanauer et al. 2012.
 
 
+
 ### Machine learning & Deep learning
+
+- [[pdf](https://arxiv.org/pdf/1810.04793)] - **Patient2Vec: A Personalized Interpretable Deep Representation of the Longitudinal Electronic Health Record**, J. Zhang et al. 2018.
+
+- [[pdf](https://arxiv.org/pdf/1810.07692)] - **Deep Diabetologist: Learning to Prescribe Hyperglycemia Medications with Hierarchical Recurrent Neural Networks**, J. Mei et al. 2018.
+
+- [[pdf](https://arxiv.org/pdf/1810.09593)] - **MiME: Multilevel Medical Embedding of Electronic Health Records for Predictive Healthcare**, E. Choi et al. 2018.
 
 - [[pdf](https://arxiv.org/pdf/1801.03058)] - **Probabilistic Prognostic Estimates of Survival in Metastatic Cancer Patients (PPES-Met) Utilizing Free-Text Clinical Narratives**, I. Banerjee et al. 2018.
 
@@ -89,6 +96,10 @@ Over the past decade, the volume of EHR has exploded. This data has great potent
 
 
 ### Visualization
+
+- [[pdf](https://arxiv.org/pdf/1810.05798.pdf)] - **ClinicalVis: Supporting Clinical Task-Focused Design Evaluation**, M. Ghassemi et al. 2018.
+
+- [[pdf](https://arxiv.org/pdf/1811.02218.pdf)] - **CarePre: An Intelligent Clinical Decision Assistance System**, Z. Jin et al. 2018.
 
 -  [[pdf](https://arxiv.org/pdf/1806.00397.pdf)] - **Visualizing Patient Timelines in the Intensive Care Unit**, D. L. Lambert et al. 2018.
 
