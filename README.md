@@ -14,6 +14,7 @@ Over the past decade, the volume of EHR has exploded. This data has great potent
 - [Machine learning](#machine-learning)
 - [Deep learning](#deep-learning)
 - [Visualization](#visualization)
+- [Standardization](#standardization)
 
 
 ***
