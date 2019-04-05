@@ -36,6 +36,8 @@ Over the past decade, the volume of EHR has exploded. This data has great potent
 
 ### Data mining
 
+- [[ref](https://arxiv.org/pdf/1903.03149)] - **Development and validation of computable Phenotype to Identify and Characterize Kidney Health in Adult Hospitalized Patients**, T. Ozrazgat-Baslanti et al. 2019.
+
 - [[ref](https://www.ncbi.nlm.nih.gov/pubmed/29779949)] - **Disease Heritability Inferred from Familial Relationships Reported in Medical Records**, F. Polubriaginof et al. 2017.
 
 - [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5391730/pdf/ocw136.pdf)] - **Predicting inpatient clinical order patterns with probabilistic topic models vs conventional order sets**, J. Chen et al. 2016.
@@ -43,10 +45,43 @@ Over the past decade, the volume of EHR has exploded. This data has great potent
 - [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3638191/pdf/amiajnl-2012-001117.pdf)] - **Modeling temporal relationships in large scale clinical associations**, D. Hanauer et al. 2012.
 
 
-
 ### Machine learning & Deep learning
 
-- [[pdf](https://arxiv.org/pdf/1810.04793)] - **Patient2Vec: A Personalized Interpretable Deep Representation of the Longitudinal Electronic Health Record**, J. Zhang et al. 2018.
+- [[pdf](https://arxiv.org/pdf/1904.02098)] - **The Medical Deconfounder: Assessing Treatment Effect with Electronic Health Records (EHRs)**, L. Zhang et al. 2019.
+
+- [[pdf](https://arxiv.org/pdf/1904.01655)] - **A frame semantic overview of NLP-based information extraction for cancer-related EHR notes**, S. Datta et al. 2019.
+
+- [[pdf](https://arxiv.org/pdf/1903.12074)] - **Interpretation of machine learning predictions for patient outcomes in electronic health records**, W. L. Cava et al. 2019.
+
+- [[pdf](https://arxiv.org/pdf/1903.08652)] - **Learning Hierarchical Representations of Electronic Health Records for Clinical Outcome Prediction**, L. Liu et al. 2019.
+
+- [[pdf](https://arxiv.org/pdf/1903.03985)] - **Named Entity Recognition for Electronic Health Records: A Comparison of Rule-based and Machine Learning Approaches**, W. L. Cava et al. 2019.
+
+- [[pdf](https://arxiv.org/pdf/1903.08652)] - **Learning Hierarchical Representations of Electronic Health Records for Clinical Outcome Prediction**, P. J. Gorinski et al. 2019.
+
+- [[pdf](https://arxiv.org/pdf/1901.01592)] - **Measuring Patient Similarities via a Deep Architecture with Medical Concept Embedding**, L. Gligic et al. 2019.
+
+- [[pdf](https://arxiv.org/pdf/1902.03376)] - **Named Entity Recognition in Electronic Health Records Using Transfer Learning Bootstrapped Neural Networks**, Z. Zhu et al. 2019.
+
+- [[pdf](https://arxiv.org/pdf/1812.00531)] - **Modeling Irregularly Sampled Clinical Time Series**, S. N. Shukla et al. 2019.
+
+- [[pdf](https://arxiv.org/pdf/1812.00371)] - **Predicting Inpatient Discharge Prioritization With Electronic Health Records**, A. Avati et al. 2019.
+
+- [[pdf](https://arxiv.org/pdf/1811.12793)] - **TIFTI: A Framework for Extracting Drug Intervals from Longitudinal Clinic Notes**, M. Agrawal et al. 2019.
+
+- [[pdf](https://arxiv.org/pdf/1811.11005)] - **Application of Clinical Concept Embeddings for Heart Failure Prediction in UK EHR data**, M. Agrawal et al. 2019.
+
+- [[pdf](https://arxiv.org/pdf/1811.10553)] - **A deep neural network predicts survival after heart imaging better than cardiologists**, A. Ulloa et al. 2019.
+
+- [[pdf](https://arxiv.org/pdf/1811.09951)] - **A Fully Private Pipeline for Deep Learning on Electronic Health Records**, E. Chou et al. 2019.
+
+- [[pdf](https://arxiv.org/pdf/1811.09350)] - **Predicting Diabetes Disease Evolution Using Financial Records and Recurrent Neural Networks**, R. T. Sousa et al. 2019.
+
+- [[pdf](https://arxiv.org/pdf/1811.08040)] - **Unsupervised Pseudo-Labeling for Extractive Summarization on Electronic Health Records**, X. Liu et al. 2019.
+
+- [[pdf](https://arxiv.org/pdf/1811.05402)] - **Embedding Electronic Health Records for Clinical Information Retrieval**, X. Wei et al. 2019.
+
+- [[pdf](https://arxiv.org/pdf/1810.04793)] - **Patient2Vec: A Personalized Interpretable Deep Representation of the Longitudinal Electronic Health Record**, S. Denaxas et al. 2018.
 
 - [[pdf](https://arxiv.org/pdf/1810.07692)] - **Deep Diabetologist: Learning to Prescribe Hyperglycemia Medications with Hierarchical Recurrent Neural Networks**, J. Mei et al. 2018.
 
@@ -97,11 +132,15 @@ Over the past decade, the volume of EHR has exploded. This data has great potent
 
 ### Visualization
 
+- [[pdf](http://www.zcliu.org/maqui/MAQUI_vast18.pdf)] - **MAQUI: Interweaving Queries and Pattern Mining for Recursive Event Sequence Exploration**, P. Law et al. 2019.
+
 - [[pdf](https://arxiv.org/pdf/1810.05798.pdf)] - **ClinicalVis: Supporting Clinical Task-Focused Design Evaluation**, M. Ghassemi et al. 2018.
 
 - [[pdf](https://arxiv.org/pdf/1811.02218.pdf)] - **CarePre: An Intelligent Clinical Decision Assistance System**, Z. Jin et al. 2018.
 
 -  [[pdf](https://arxiv.org/pdf/1806.00397.pdf)] - **Visualizing Patient Timelines in the Intensive Care Unit**, D. L. Lambert et al. 2018.
+
+- [[pdf](http://www.zcliu.org/coreflow/CoreFlow-EuroVis17.pdf)] - **CoreFlow: Extracting and Visualizing Branching Patterns from Event Sequences**, Z. Liu et al. 2017.
 
 - [[pdf](https://hal.inria.fr/hal-01353233/file/PhenoStacks_VAST2016%20%281%29.pdf)] - **PhenoStacks: Cross-Sectional Cohort Phenotype Comparison Visualizations**, M. Glueck et al. 2016.
 
@@ -110,6 +149,12 @@ Over the past decade, the volume of EHR has exploded. This data has great potent
 - [[pdf](http://perer.org/papers/adamPerer-CAVA-IVS2014.pdf)] - **Iterative cohort analysis and exploration**, Z. Zhang et al. 2014.
 
 - [[pdf](http://www.cs.umd.edu/hcil/trs/2014-28/2014-28.pdf)] - **An Evaluation of Visual Analytics Approaches to Comparing Cohorts of Event Sequences**, S. Malik et al. 2014.
+
+
+### Standardization
+
+- [[pdf](https://arxiv.org/pdf/1901.07601)] - **CREATE: Cohort Retrieval Enhanced by Analysis of Text from Electronic Health Records using OMOP Common Data Model**, S. Liu et al. 2019.
+
 
 ***
 
