@@ -1,4 +1,4 @@
-# Awesome Deep Learning and EHRs [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Deep Learning and EHRs 
 
 
 Curated list of awesome papers for electronic health records (EHR) mining, machine learning, and deep learning.
