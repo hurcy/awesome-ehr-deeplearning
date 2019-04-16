@@ -37,6 +37,8 @@ Over the past decade, the volume of EHR has exploded. This data has great potent
 
 ### Data mining
 
+- [[ref](https://www.biorxiv.org/content/biorxiv/early/2019/03/28/590307.full-text.pdf)] - **High-throughput Phenotyping with Temporal Sequences**, H. Estiri et al. 2019.
+
 - [[ref](https://arxiv.org/pdf/1903.03149)] - **Development and validation of computable Phenotype to Identify and Characterize Kidney Health in Adult Hospitalized Patients**, T. Ozrazgat-Baslanti et al. 2019.
 
 - [[ref](https://www.ncbi.nlm.nih.gov/pubmed/29779949)] - **Disease Heritability Inferred from Familial Relationships Reported in Medical Records**, F. Polubriaginof et al. 2017.
