@@ -23,6 +23,8 @@ Over the past decade, the volume of EHR has exploded. This data has great potent
 
 ### Survey
 
+- [pdf] - **A guide to deep learning in healthcare**, A. Esteva et al. 2019.
+
 - [[pdf](https://arxiv.org/pdf/1706.03446.pdf)] - **Deep EHR: A survey of Recent Advances on Deep Learning Techniques for Electronic Health Record(EHR) Analysis**, B. Shickel et al. 2018.
 
 - [[pdf](https://arxiv.org/pdf/1806.00388.pdf)] - **Opportunities in Machine Learning for Healthcare**, M. Ghassemi et al. 2018.
@@ -37,8 +39,6 @@ Over the past decade, the volume of EHR has exploded. This data has great potent
 
 ### Data mining
 
-- [[ref](https://www.biorxiv.org/content/biorxiv/early/2019/03/28/590307.full-text.pdf)] - **High-throughput Phenotyping with Temporal Sequences**, H. Estiri et al. 2019.
-
 - [[ref](https://arxiv.org/pdf/1903.03149)] - **Development and validation of computable Phenotype to Identify and Characterize Kidney Health in Adult Hospitalized Patients**, T. Ozrazgat-Baslanti et al. 2019.
 
 - [[ref](https://www.ncbi.nlm.nih.gov/pubmed/29779949)] - **Disease Heritability Inferred from Familial Relationships Reported in Medical Records**, F. Polubriaginof et al. 2017.
@@ -49,6 +49,8 @@ Over the past decade, the volume of EHR has exploded. This data has great potent
 
 
 ### Machine learning & Deep learning
+
+- [[ref](https://www.biorxiv.org/content/biorxiv/early/2019/03/28/590307.full-text.pdf)] - **High-throughput Phenotyping with Temporal Sequences**, H. Estiri et al. 2019.
 
 - [[pdf](https://arxiv.org/pdf/1904.02098)] - **The Medical Deconfounder: Assessing Treatment Effect with Electronic Health Records (EHRs)**, L. Zhang et al. 2019.
 
