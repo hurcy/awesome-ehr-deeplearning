@@ -1,2 +1,4 @@
-after_success:
+language: generic 
+
+script:
   - .travis/push.sh
