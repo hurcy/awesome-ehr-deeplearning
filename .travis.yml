@@ -7,5 +7,5 @@ script:
   - git add docs/*
   - git status
   - git commit -m "update docs"
-  - git remote add origin https://${GH_TOKEN}@github.com/hurcy/awesome-ehr-deeplearning.git > /dev/null 2>&1
-  - git push --quiet --set-upstream origin master 
+  - git remote add origin-pages https://${GH_TOKEN}@github.com/hurcy/awesome-ehr-deeplearning.git > /dev/null 2>&1
+  - git push --quiet --set-upstream origin-pages master 
