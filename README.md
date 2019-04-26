@@ -172,6 +172,7 @@ Over the past decade, the volume of EHR has exploded. This data has great potent
 - [[pdf](https://arxiv.org/pdf/1901.07601)] - **CREATE: Cohort Retrieval Enhanced by Analysis of Text from Electronic Health Records using OMOP Common Data Model**, S. Liu et al. 2019.
 
 
+
 ***
 
 ## Acknowledgement
