@@ -1,4 +1,4 @@
-# Awesome Deep Learning and EHRs 
+# Awesome Deep Learning and EHRs <img src="https://travis-ci.com/hurcy/awesome-ehr-deeplearning.svg?branch=master">
 
 
 Curated list of awesome papers for electronic health records (EHR) mining, machine learning, and deep learning.
