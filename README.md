@@ -49,9 +49,11 @@ Over the past decade, the volume of EHR has exploded. This data has great potent
 
 - [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3638191/pdf/amiajnl-2012-001117.pdf)] - **Modeling temporal relationships in large scale clinical associations**, D. Hanauer et al. 2012.
 
+
 ### Statistics
 
 - [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4874910/pdf/nihms-767362.pdf)] - **Improvement in Cardiovascular Risk Prediction with Electronic Health Records**, M. M. Pike et al. 2016.
+
 
 ### Machine learning 
 
@@ -62,6 +64,7 @@ Over the past decade, the volume of EHR has exploded. This data has great potent
 - [[pdf](https://arxiv.org/pdf/1903.12074)] - **Interpretation of machine learning predictions for patient outcomes in electronic health records**, W. L. Cava et al. 2019.
 
 - [[pdf](https://bmcmedinformdecismak.biomedcentral.com/track/pdf/10.1186/s12911-018-0620-z)] - **A machine learning model to predict the risk of 30-day readmissions in patients with heart failure: a retrospective analysis of electronic medical records data**, S. B. Golas et al. 2018.
+
 
 ### Deep learning
 
@@ -86,7 +89,6 @@ Over the past decade, the volume of EHR has exploded. This data has great potent
 - [[pdf](https://arxiv.org/pdf/1805.02096.pdf)] - **Learning Patient Representations from Text**, D. Dligach, et al. 2018.
 
 - [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4869115/pdf/srep26094.pdf)] - **Deep Patient: An Unsupervised Representation to Predict the Future of Patients from the Electronic Health Records**, R. Miotto et al. 2016.
-
 
 #### NLP
 
