@@ -45,6 +45,8 @@ Over the past decade, the volume of EHR has exploded. This data has great potent
 
 - [[ref](https://www.ncbi.nlm.nih.gov/pubmed/29779949)] - **Disease Heritability Inferred from Familial Relationships Reported in Medical Records**, F. Polubriaginof et al. 2017.
 
+- [[pdf](https://www.cs.ucr.edu/~eamonn/STOMP_GPU_final_submission_camera_ready.pdf)] - **Exploiting a Novel Algorithm and GPUs to Break the One Hundred Million Barrier for Time Series Motifs and Joins**, Y. Zhu et al. 2016.
+
 - [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5391730/pdf/ocw136.pdf)] - **Predicting inpatient clinical order patterns with probabilistic topic models vs conventional order sets**, J. Chen et al. 2016.
 
 - [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3638191/pdf/amiajnl-2012-001117.pdf)] - **Modeling temporal relationships in large scale clinical associations**, D. Hanauer et al. 2012.
