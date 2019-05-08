@@ -152,6 +152,8 @@ Over the past decade, the volume of EHR has exploded. This data has great potent
 
 - [[pdf](http://www.zcliu.org/maqui/MAQUI_vast18.pdf)] - **MAQUI: Interweaving Queries and Pattern Mining for Recursive Event Sequence Exploration**, P. Law et al. 2019.
 
+- [[pdf](https://hcil.umd.edu/wp-content/uploads/2019/04/FINAL-PAPER-EventAction_TiiS_revisionDec2018.pdf)] - **EventAction: A Visual Analytics Approach to Explainable Recommendation for Event Sequences**, F. Du et al. 2018
+
 - [[pdf](https://arxiv.org/pdf/1810.05798.pdf)] - **ClinicalVis: Supporting Clinical Task-Focused Design Evaluation**, M. Ghassemi et al. 2018.
 
 - [[pdf](https://arxiv.org/pdf/1811.02218.pdf)] - **CarePre: An Intelligent Clinical Decision Assistance System**, Z. Jin et al. 2018.
