@@ -124,6 +124,8 @@ Over the past decade, the volume of EHR has exploded. This data has great potent
 
 #### Prediction
 
+- [[pdf](https://arxiv.org/pdf/1905.03218.pdf)] - **MetaPred: Meta-Learning for Clinical Risk Prediction with Limited Patient Electronic Health Records**, X. X. Zhang et al. 2019.
+
 - [[pdf](https://arxiv.org/pdf/1811.09350)] - **Predicting Diabetes Disease Evolution Using Financial Records and Recurrent Neural Networks**, R. T. Sousa et al. 2019.
 
 - [[pdf](https://arxiv.org/pdf/1810.07692)] - **Deep Diabetologist: Learning to Prescribe Hyperglycemia Medications with Hierarchical Recurrent Neural Networks**, J. Mei et al. 2018.
@@ -149,6 +151,8 @@ Over the past decade, the volume of EHR has exploded. This data has great potent
 - [[pdf](https://arxiv.org/pdf/1712.06657)] - **Towards the Augmented Pathologist: Challenges of Explainable-AI in Digital Pathology**, A. Holzinger et al. 2017.
 
 ### Visualization
+
+- [[pdf](https://arxiv.org/pdf/1904.11652.pdf)] - **DPVis: Visual Exploration of Disease Progression Pathways**, B. C. Kwon et al. 2019.
 
 - [[pdf](http://www.zcliu.org/maqui/MAQUI_vast18.pdf)] - **MAQUI: Interweaving Queries and Pattern Mining for Recursive Event Sequence Exploration**, P. Law et al. 2019.
 
