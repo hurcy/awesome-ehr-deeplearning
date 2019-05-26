@@ -67,6 +67,8 @@ Over the past decade, the volume of EHR has exploded. This data has great potent
 
 - [[pdf](https://bmcmedinformdecismak.biomedcentral.com/track/pdf/10.1186/s12911-018-0620-z)] - **A machine learning model to predict the risk of 30-day readmissions in patients with heart failure: a retrospective analysis of electronic medical records data**, S. B. Golas et al. 2018.
 
+- [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5201185/pdf/ocw071.pdf)] - **Evaluating electronic health record data sources and algorithmic approaches to identify hypertensive individuals**, P. L. Teixeira et al. 2017.
+
 
 ### Deep learning
 
