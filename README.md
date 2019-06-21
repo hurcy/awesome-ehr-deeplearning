@@ -74,6 +74,8 @@ Over the past decade, the volume of EHR has exploded. This data has great potent
 
 #### Embedding & Representation
 
+- [[pdf](https://arxiv.org/pdf/1906.04716.pdf)] - **Graph Convolutional Transformer: Learning the Graphical Structure of Electronic Health Records**, E. Choi et al. 2019.
+
 - [[pdf](https://arxiv.org/pdf/1904.04990)] - **Identification of Predictive Sub-Phenotypes of Acute Kidney Injury using Structured and Unstructured Electronic Health Record Data with Memory Networks**, Z. Xu et al. 2019.
 
 - [[pdf](https://arxiv.org/pdf/1903.08652)] - **Learning Hierarchical Representations of Electronic Health Records for Clinical Outcome Prediction**, L. Liu et al. 2019.
@@ -126,6 +128,8 @@ Over the past decade, the volume of EHR has exploded. This data has great potent
 
 #### Prediction
 
+- [[pdf](https://arxiv.org/pdf/1906.02956.pdf)] - **Early detection of sepsis utilizing deep learning on electronic health record event sequences**, S. M. Lauritsen et al. 2019.
+
 - [[pdf](https://arxiv.org/pdf/1905.03218.pdf)] - **MetaPred: Meta-Learning for Clinical Risk Prediction with Limited Patient Electronic Health Records**, X. X. Zhang et al. 2019.
 
 - [[pdf](https://arxiv.org/pdf/1811.09350)] - **Predicting Diabetes Disease Evolution Using Financial Records and Recurrent Neural Networks**, R. T. Sousa et al. 2019.
@@ -153,6 +157,8 @@ Over the past decade, the volume of EHR has exploded. This data has great potent
 - [[pdf](https://arxiv.org/pdf/1712.06657)] - **Towards the Augmented Pathologist: Challenges of Explainable-AI in Digital Pathology**, A. Holzinger et al. 2017.
 
 ### Visualization
+
+- [[pdf](https://arxiv.org/pdf/1906.07625.pdf)] - **Selection Bias Tracking and Detailed Subset Comparison for High-Dimensional Data**, D. Borland et al. 2019.
 
 - [[pdf](https://arxiv.org/pdf/1904.11652.pdf)] - **DPVis: Visual Exploration of Disease Progression Pathways**, B. C. Kwon et al. 2019.
 
