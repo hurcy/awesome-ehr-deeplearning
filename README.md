@@ -41,6 +41,8 @@ Over the past decade, the volume of EHR has exploded. This data has great potent
 
 ### Data mining
 
+- [[pdf](https://arxiv.org/pdf/1907.08322.pdf)] - **MIMIC-Extract: A Data Extraction, Preprocessing, and Representation Pipeline for MIMIC-III**, S. Wang et al. 2019.
+
 - [[pdf](https://arxiv.org/pdf/1903.03149)] - **Development and validation of computable Phenotype to Identify and Characterize Kidney Health in Adult Hospitalized Patients**, T. Ozrazgat-Baslanti et al. 2019.
 
 - [[ref](https://www.ncbi.nlm.nih.gov/pubmed/29779949)] - **Disease Heritability Inferred from Familial Relationships Reported in Medical Records**, F. Polubriaginof et al. 2017.
@@ -73,6 +75,14 @@ Over the past decade, the volume of EHR has exploded. This data has great potent
 ### Deep learning
 
 #### Embedding & Representation
+
+- [[pdf](https://arxiv.org/pdf/1907.09538.pdf)] - **BEHRT: TRANSFORMER FOR ELECTRONIC HEALTH RECORDS**, Y. Li et al. 2019.
+
+- [[pdf](https://arxiv.org/pdf/1908.03971.pdf)] - **TAPER: Time-Aware Patient EHR Representation**, S. Darabi et al. 2019.
+
+- [[pdf](https://arxiv.org/pdf/1812.00531)] - **Modeling Irregularly Sampled Clinical Time Series**, S. N. Shukla et al. 2019.
+
+- [[pdf](https://arxiv.org/pdf/1811.12793)] - **TIFTI: A Framework for Extracting Drug Intervals from Longitudinal Clinic Notes**, M. Agrawal et al. 2019.
 
 - [[pdf](https://arxiv.org/pdf/1906.04716.pdf)] - **Graph Convolutional Transformer: Learning the Graphical Structure of Electronic Health Records**, E. Choi et al. 2019.
 
@@ -116,11 +126,6 @@ Over the past decade, the volume of EHR has exploded. This data has great potent
 
 - [[pdf](https://arxiv.org/pdf/1806.04818.pdf)] - **Using Clinical Narratives and Structured Data to Identify Distant Recurrences in Breast Cancer**, Z. Zeng et al. 2018.
 
-#### Time series
-
-- [[pdf](https://arxiv.org/pdf/1812.00531)] - **Modeling Irregularly Sampled Clinical Time Series**, S. N. Shukla et al. 2019.
-
-- [[pdf](https://arxiv.org/pdf/1811.12793)] - **TIFTI: A Framework for Extracting Drug Intervals from Longitudinal Clinic Notes**, M. Agrawal et al. 2019.
 
 #### Privacy 
 
@@ -156,7 +161,16 @@ Over the past decade, the volume of EHR has exploded. This data has great potent
 
 - [[pdf](https://arxiv.org/pdf/1712.06657)] - **Towards the Augmented Pathologist: Challenges of Explainable-AI in Digital Pathology**, A. Holzinger et al. 2017.
 
+
+#### Reinforcement Learning 
+
+- [[pdf](https://arxiv.org/pdf/1908.08796.pdf)] - **Reinforcement Learning in Healthcare: A Survey**, C. Yu, et al. 2019.
+
+
+
 ### Visualization
+
+- [[pdf](https://arxiv.org/pdf/1908.00903.pdf)] - **Analyzing Time Attributes in Temporal Event Sequences**, J. Magallanes et al. 2019.
 
 - [[pdf](https://arxiv.org/pdf/1906.07625.pdf)] - **Selection Bias Tracking and Detailed Subset Comparison for High-Dimensional Data**, D. Borland et al. 2019.
 
