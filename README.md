@@ -19,7 +19,6 @@ Over the past decade, the volume of EHR has exploded. This data has great potent
   - NLP
   - Privacy
   - Prediction
-  - Reinforcement Learning
 - [Visualization](#visualization)
 - [Standardization](#standardization)
 
@@ -29,6 +28,8 @@ Over the past decade, the volume of EHR has exploded. This data has great potent
 
 
 ### Survey
+
+- [[pdf](https://arxiv.org/pdf/1908.08796.pdf)] - **Reinforcement Learning in Healthcare: A Survey**, C. Yu, et al. 2019.
 
 - [[ref](https://www.nature.com/articles/s41591-018-0316-z)] - **A guide to deep learning in healthcare**, A. Esteva et al. 2019.
 
@@ -165,12 +166,6 @@ Over the past decade, the volume of EHR has exploded. This data has great potent
 - [[pdf](https://arxiv.org/pdf/1712.08107)] - **A Deep Learning Interpretable Classifier for Diabetic Retinopathy Disease Grading**, J. Torre et al. 2017.
 
 - [[pdf](https://arxiv.org/pdf/1712.06657)] - **Towards the Augmented Pathologist: Challenges of Explainable-AI in Digital Pathology**, A. Holzinger et al. 2017.
-
-
-#### Reinforcement Learning 
-
-- [[pdf](https://arxiv.org/pdf/1908.08796.pdf)] - **Reinforcement Learning in Healthcare: A Survey**, C. Yu, et al. 2019.
-
 
 
 ### Visualization
