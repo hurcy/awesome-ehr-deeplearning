@@ -15,6 +15,11 @@ Over the past decade, the volume of EHR has exploded. This data has great potent
 - [Statistics](#statistics)
 - [Machine learning](#machine-learning)
 - [Deep learning](#deep-learning)
+  - Embedding & Representation
+  - NLP
+  - Privacy
+  - Prediction
+  - Reinforcement Learning
 - [Visualization](#visualization)
 - [Standardization](#standardization)
 
@@ -76,7 +81,7 @@ Over the past decade, the volume of EHR has exploded. This data has great potent
 
 #### Embedding & Representation
 
-- [[pdf](https://arxiv.org/pdf/1907.09538.pdf)] - **BEHRT: TRANSFORMER FOR ELECTRONIC HEALTH RECORDS**, Y. Li et al. 2019.
+- [[pdf](https://arxiv.org/pdf/1907.09538.pdf)] - **BEHRT: Transformer for Electronic Health Records**, Y. Li et al. 2019.
 
 - [[pdf](https://arxiv.org/pdf/1908.03971.pdf)] - **TAPER: Time-Aware Patient EHR Representation**, S. Darabi et al. 2019.
 
