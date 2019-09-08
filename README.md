@@ -139,6 +139,8 @@ Over the past decade, the volume of EHR has exploded. This data has great potent
 
 #### Prediction
 
+- [[pdf](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0211057&type=printable)] - **An attention based deep learning model of clinical events in the intensive care unit**, D. A. Kaji et al. 2019.
+
 - [[pdf](https://arxiv.org/pdf/1906.02956.pdf)] - **Early detection of sepsis utilizing deep learning on electronic health record event sequences**, S. M. Lauritsen et al. 2019.
 
 - [[pdf](https://arxiv.org/pdf/1905.03218.pdf)] - **MetaPred: Meta-Learning for Clinical Risk Prediction with Limited Patient Electronic Health Records**, X. X. Zhang et al. 2019.
