@@ -169,6 +169,7 @@ Over the past decade, the volume of EHR has exploded. This data has great potent
 
 - [[pdf](https://arxiv.org/pdf/1712.06657)] - **Towards the Augmented Pathologist: Challenges of Explainable-AI in Digital Pathology**, A. Holzinger et al. 2017.
 
+- [[pdf](http://proceedings.mlr.press/v56/Lipton16.pdf)] - **Modeling Missing Data in Clinical Time Series with RNNs**, Z. C. Lipton et al. 2016.
 
 ### Visualization
 
