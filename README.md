@@ -29,6 +29,8 @@ Over the past decade, the volume of EHR has exploded. This data has great potent
 
 ### Survey
 
+- [[pdf](https://arxiv.org/pdf/1909.00384.pdf)] - **DeepHealth: Deep Learning for Health Informatics reviews, challenges, and opportunities on medical imaging,electronic health records, genomics, sensing, and online communication health**, G. H. Kwak, et al. 2019.
+
 - [[pdf](https://arxiv.org/pdf/1908.08796.pdf)] - **Reinforcement Learning in Healthcare: A Survey**, C. Yu, et al. 2019.
 
 - [[ref](https://www.nature.com/articles/s41591-018-0316-z)] - **A guide to deep learning in healthcare**, A. Esteva et al. 2019.
@@ -138,6 +140,10 @@ Over the past decade, the volume of EHR has exploded. This data has great potent
 - [[pdf](https://arxiv.org/pdf/1811.09951)] - **A Fully Private Pipeline for Deep Learning on Electronic Health Records**, E. Chou et al. 2019.
 
 #### Prediction
+
+- [[pdf](https://arxiv.org/pdf/1909.07782.pdf)] - **Interpolation-Prediction Networks for Irregularly Sampled Time Series**, S. N. Shukla et al. 2019.
+
+- [[pdf](https://arxiv.org/pdf/1909.03039.pdf)] - **Improved Patient Classification with Language Model Pretraining Over Clinical Notes**, J. Kemp et al. 2019.
 
 - [[pdf](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0211057&type=printable)] - **An attention based deep learning model of clinical events in the intensive care unit**, D. A. Kaji et al. 2019.
 
