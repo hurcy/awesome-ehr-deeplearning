@@ -61,6 +61,7 @@ Over the past decade, the volume of EHR has exploded. This data has great potent
 
 - [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3638191/pdf/amiajnl-2012-001117.pdf)] - **Modeling temporal relationships in large scale clinical associations**, D. Hanauer et al. 2012.
 
+- [[ref](https://www.nature.com/articles/nrg3208)] - **Mining electronic health records: towards better research applications and clinical care**, P. B. Jensen et al. 2012.
 
 ### Statistics
 
