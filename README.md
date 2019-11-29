@@ -47,7 +47,9 @@ Over the past decade, the volume of EHR has exploded. This data has great potent
 
 
 
-### Data mining
+### Data mining & data quality
+
+- [[pdf](https://arxiv.org/pdf/1911.08504)] - **Examining the impact of data quality and completeness of electronic health records on predictions of patients risks of cardiovascular disease**, Y. Li et al. 2019.
 
 - [[pdf](https://arxiv.org/pdf/1907.08322.pdf)] - **MIMIC-Extract: A Data Extraction, Preprocessing, and Representation Pipeline for MIMIC-III**, S. Wang et al. 2019.
 
@@ -84,6 +86,10 @@ Over the past decade, the volume of EHR has exploded. This data has great potent
 ### Deep learning
 
 #### Embedding & Representation
+
+- [[pdf](https://arxiv.org/pdf/1911.10395)] - **Doctor2Vec: Dynamic Doctor Representation Learning for Clinical Trial Recruitment**, S. Biswal et al. 2019.
+
+- [[pdf](https://arxiv.org/pdf/1911.06410)] - **Modelling EHR timeseries by restricting feature interaction**, K. Zhang et al. 2019.
 
 - [[pdf](https://arxiv.org/pdf/1907.09538.pdf)] - **BEHRT: Transformer for Electronic Health Records**, Y. Li et al. 2019.
 
@@ -137,6 +143,8 @@ Over the past decade, the volume of EHR has exploded. This data has great potent
 
 
 #### Privacy 
+
+- [[pdf](https://arxiv.org/pdf/1911.05861)] - **Federated and Differentially Private Learning for Electronic Health Records**, S. R. Pfohl et al. 2019.
 
 - [[pdf](https://arxiv.org/pdf/1811.09951)] - **A Fully Private Pipeline for Deep Learning on Electronic Health Records**, E. Chou et al. 2019.
 
@@ -208,6 +216,9 @@ Over the past decade, the volume of EHR has exploded. This data has great potent
 
 
 ### Standardization
+
+- [[pdf](https://arxiv.org/pdf/1911.12254.pdf)] - **A semi-autonomous approach to connecting proprietary EHR standards to FHIR**, M. Chapman, et al. 2019.
+
 
 - [[pdf](https://arxiv.org/pdf/1901.07601)] - **CREATE: Cohort Retrieval Enhanced by Analysis of Text from Electronic Health Records using OMOP Common Data Model**, S. Liu et al. 2019.
 
