@@ -6,7 +6,7 @@ https://hurcy.github.io/awesome-ehr-deeplearning/
 
 ## Background
 
-Over the past decade, the volume of EHR has exploded. This data has great potential. Thanks to advances in machine learning and deep learning techniques, health records have been converted into mathematical representation. We make a collection of must-read papers on various EHR topics - recent research trends, applications to predict patient outcomes, visualization of complex data.
+Over the past decade, the volume of EHR has exploded and will be in the future. Thanks to advances in machine learning and deep learning techniques, electronic health records have recognized as a powerful resource to tackle clinical challenges. We make a collection of must-read papers on various EHR topics - recent research trends, applications to predict patient outcomes, deployment in the real-world, and visualization of complex data.
 
 ## Contents
 - [Survey](#survey)
@@ -18,15 +18,19 @@ Over the past decade, the volume of EHR has exploded. This data has great potent
   - NLP
   - Privacy
   - Prediction
+- [Explainability](#explainability)
 - [Visualization](#visualization)
 - [Standardization](#standardization)
-
+- [Deployment](#deployment)
+- [Clinical Trial Recruitment](#clinical-trail-recruitment)
 
 ***
 
 
 
 ### Survey
+
+- [[pdf](https://arxiv.org/pdf/2012.01976.pdf)] - **Patient similarity: methods and applications**, L. Dai, et al. 2020.
 
 - [[pdf](https://arxiv.org/pdf/1909.00384.pdf)] - **DeepHealth: Deep Learning for Health Informatics reviews, challenges, and opportunities on medical imaging,electronic health records, genomics, sensing, and online communication health**, G. H. Kwak, et al. 2019.
 
@@ -47,6 +51,8 @@ Over the past decade, the volume of EHR has exploded. This data has great potent
 
 
 ### Data mining & data quality
+
+- [[pdf](https://arxiv.org/pdf/2101.09101.pdf)] - **A multi-perspective combined recall and rank framework for Chinese procedure terminology normalization**, M. Liang et al. 2021.
 
 - [[pdf](https://arxiv.org/pdf/1911.08504)] - **Examining the impact of data quality and completeness of electronic health records on predictions of patients risks of cardiovascular disease**, Y. Li et al. 2019.
 
@@ -71,6 +77,8 @@ Over the past decade, the volume of EHR has exploded. This data has great potent
 
 ### Machine learning 
 
+- [[pdf](https://arxiv.org/pdf/2101.01835.pdf)] - **Risk Markers by Sex and Age Group for In-Hospital Mortality in Patients with STEMI or NSTEMI: an Approach based on Machine Learning**, B. Vázquez et al. 2021.
+
 - [[pdf](https://www.biorxiv.org/content/biorxiv/early/2019/03/28/590307.full-text.pdf)] - **High-throughput Phenotyping with Temporal Sequences**, H. Estiri et al. 2019.
 
 - [[pdf](https://arxiv.org/pdf/1904.02098)] - **The Medical Deconfounder: Assessing Treatment Effect with Electronic Health Records (EHRs)**, L. Zhang et al. 2019.
@@ -85,6 +93,14 @@ Over the past decade, the volume of EHR has exploded. This data has great potent
 ### Deep learning
 
 #### Embedding & Representation
+
+- [[pdf](https://arxiv.org/pdf/2101.07357.pdf)] - **Handling Non-ignorably Missing Features in Electronic Health Records Data Using Importance-Weighted Autoencoders**, D. K. Lim et al. 2021.
+
+- [[pdf](https://arxiv.org/pdf/2101.06800.pdf)] - **Heterogeneous Similarity Graph Neural Network on Electronic Health Records**, Z. Liu et al. 2021.
+
+- [[pdf](https://arxiv.org/pdf/2101.03940.pdf)] - **Predicting Patient Outcomes with Graph Representation Learning**, E. Rocheteau et al. 2021.
+
+- [[pdf](https://arxiv.org/pdf/2012.10020.pdf)] - **EVA: Generating Longitudinal Electronic Health Records Using Conditional Variational Autoencoders**, S. Biswal et al. 2021.
 
 - [[pdf](https://arxiv.org/pdf/1911.10395)] - **Doctor2Vec: Dynamic Doctor Representation Learning for Clinical Trial Recruitment**, S. Biswal et al. 2019.
 
@@ -120,6 +136,7 @@ Over the past decade, the volume of EHR has exploded. This data has great potent
 
 - [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4869115/pdf/srep26094.pdf)] - **Deep Patient: An Unsupervised Representation to Predict the Future of Patients from the Electronic Health Records**, R. Miotto et al. 2016.
 
+
 #### NLP
 
 - [[pdf](https://arxiv.org/pdf/1904.01655)] - **A frame semantic overview of NLP-based information extraction for cancer-related EHR notes**, S. Datta et al. 2019.
@@ -147,7 +164,14 @@ Over the past decade, the volume of EHR has exploded. This data has great potent
 
 - [[pdf](https://arxiv.org/pdf/1811.09951)] - **A Fully Private Pipeline for Deep Learning on Electronic Health Records**, E. Chou et al. 2019.
 
+
 #### Prediction
+
+- [[pdf](https://arxiv.org/pdf/2102.02340.pdf)] - **MUFASA: Multimodal Fusion Architecture Search for Electronic Health Records**, Z. Xu et al. 2021.
+
+- [[pdf](https://arxiv.org/pdf/2102.02340.pdf)] - **Multi-Time Attention Networks for Irregularly Sampled Time Series**, S. N. Shukla et al. 2021.
+
+- [[pdf](https://arxiv.org/pdf/2101.02344.pdf)] - **DICE: Significance Clustering for Outcome-Aware Stratification**, Y. Huang et al. 2021.
 
 - [[pdf](https://people.cs.pitt.edu/~jlee/papers/AI_in_Medicine_Journal_2021-35.pdf)] - **Modeling Multivariate Clinical Event Time-series with Recurrent Temporal Mechanisms**, J. M. Lee et al. 2021.
 
@@ -191,7 +215,21 @@ Over the past decade, the volume of EHR has exploded. This data has great potent
 
 - [[pdf](http://proceedings.mlr.press/v56/Lipton16.pdf)] - **Modeling Missing Data in Clinical Time Series with RNNs**, Z. C. Lipton et al. 2016.
 
+
+### Explainability
+
+- [[pdf](https://arxiv.org/pdf/2102.12936.pdf)] - **Risk factor identification for incident heart  failure using neural network distillation and variable selection**, Y. Li et al. 2021.
+
+- [[pdf](https://arxiv.org/pdf/2101.11359.pdf)] - **An explainable Transformer-based deep learning model for the prediction of incident heart failure**, S. Rao et al. 2021.
+
+- [[pdf](https://arxiv.org/pdf/2012.07133.pdf)] - **Inference for the Case Probability in High-dimensional Logistic Regression**, Z. Guo et al. 2021.
+
+- [[pdf](https://arxiv.org/pdf/2012.02308.pdf)] - **Concept-based Model Explanations for Electronic Health Records**, S. Baur et al. 2020.
+
+
 ### Visualization
+
+- [[pdf](https://arxiv.org/pdf/2101.08856.pdf)] - **Modeling and Leveraging Analytic Focus During Exploratory Visual Analysis**, Z. Zhou et al. 2021.
 
 - [[pdf](https://arxiv.org/pdf/1908.00903.pdf)] - **Analyzing Time Attributes in Temporal Event Sequences**, J. Magallanes et al. 2019.
 
@@ -227,6 +265,23 @@ Over the past decade, the volume of EHR has exploded. This data has great potent
 
 - [[pdf](https://arxiv.org/pdf/1901.07601)] - **CREATE: Cohort Retrieval Enhanced by Analysis of Text from Electronic Health Records using OMOP Common Data Model**, S. Liu et al. 2019.
 
+
+### Deployment
+
+- [[pdf](http://proceedings.mlr.press/v136/ulmer20a/ulmer20a.pdf)] - **Trust Issues: Uncertainty Estimation Does Not Enable Reliable OOD Detection On Medical Tabular Data**, D. Ulmer, et al. 2020.
+
+- [[pdf](https://arxiv.org/pdf/2102.03412.pdf)] - **Machine Learning in Precision Medicine to Preserve Privacy via Encryption**, W. Briguglio, et al. 2021.
+
+- [[pdf](https://arxiv.org/pdf/2101.04853.pdf)] - **Adversarial Sample Enhanced Domain Adaptation: A Case Study on Predictive Modeling with Electronic Health Records**, Y. Yu, et al. 2021.
+
+
+## Clinical Trial Recruitment
+
+- [[pdf](https://arxiv.org/pdf/2011.06663)] - **Patient Recruitment Using Electronic Health Records Under Selection Bias: a Two-phase Sampling Framework**, G. Zhang, et al. 2020.
+
+- [[pdf](https://arxiv.org/pdf/2006.08765.pdf)] - **COMPOSE: Cross-Modal Pseudo-Siamese Network for Patient Trial Matching**, J. Gao, et al. 2020.
+
+- [[pdf](https://arxiv.org/pdf/2001.08179.pdf)] - **DeepEnroll: Patient-Trial Matching with Deep Embedding and Entailment Prediction**, X. Zhang, et al. 2020.
 
 
 ***
