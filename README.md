@@ -150,6 +150,10 @@ Over the past decade, the volume of EHR has exploded. This data has great potent
 
 #### Prediction
 
+- [[pdf](https://people.cs.pitt.edu/~jlee/papers/AI_in_Medicine_Journal_2021-35.pdf)] - **Modeling Multivariate Clinical Event Time-series with Recurrent Temporal Mechanisms**, J. M. Lee et al. 2021.
+
+- [[pdf](http://people.cs.pitt.edu/~jlee/papers/J_Lee_M_Hauskrecht_Multiscale_Temporal_Memory_AIME_2020_CRV.pdf)] - **Multi-scale Temporal Memory for Clinical Event Time-Series Prediction**, J. M. Lee et al. 2020.
+
 - [[pdf](https://arxiv.org/pdf/1909.07782.pdf)] - **Interpolation-Prediction Networks for Irregularly Sampled Time Series**, S. N. Shukla et al. 2019.
 
 - [[pdf](https://arxiv.org/pdf/1909.03039.pdf)] - **Improved Patient Classification with Language Model Pretraining Over Clinical Notes**, J. Kemp et al. 2019.
@@ -161,6 +165,8 @@ Over the past decade, the volume of EHR has exploded. This data has great potent
 - [[pdf](https://arxiv.org/pdf/1905.03218.pdf)] - **MetaPred: Meta-Learning for Clinical Risk Prediction with Limited Patient Electronic Health Records**, X. X. Zhang et al. 2019.
 
 - [[pdf](https://arxiv.org/pdf/1811.09350)] - **Predicting Diabetes Disease Evolution Using Financial Records and Recurrent Neural Networks**, R. T. Sousa et al. 2019.
+
+- [[pdf](https://people.cs.pitt.edu/~jlee/papers/AIME_2019-39.pdf)] - **Recent context-based LSTM for Clinical Event Time-series Prediction**, J. Lee et al. 2018.
 
 - [[pdf](https://arxiv.org/pdf/1810.07692)] - **Deep Diabetologist: Learning to Prescribe Hyperglycemia Medications with Hierarchical Recurrent Neural Networks**, J. Mei et al. 2018.
 
