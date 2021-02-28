@@ -2,8 +2,6 @@
 
 Curated list of awesome papers for electronic health records (EHR) mining, machine learning, and deep learning.
 
-https://hurcy.github.io/awesome-ehr-deeplearning/
-
 ## Background
 
 Over the past decade, the volume of EHR has exploded and will be in the future. Thanks to advances in machine learning and deep learning techniques, electronic health records have recognized as a powerful resource to tackle clinical challenges. We make a collection of must-read papers on various EHR topics - recent research trends, applications to predict patient outcomes, deployment in the real-world, and visualization of complex data.
