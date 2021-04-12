@@ -92,6 +92,8 @@ Over the past decade, the volume of EHR has exploded and will be in the future. 
 
 #### Embedding & Representation
 
+- [[pdf](https://arxiv.org/pdf/2104.02932.pdf)] - **Bootstrapping Your Own Positive Sample: Contrastive Learning With Electronic Health Record Data**, T. Wanyan et al. 2021.
+
 - [[pdf](https://arxiv.org/pdf/2101.07357.pdf)] - **Handling Non-ignorably Missing Features in Electronic Health Records Data Using Importance-Weighted Autoencoders**, D. K. Lim et al. 2021.
 
 - [[pdf](https://arxiv.org/pdf/2101.06800.pdf)] - **Heterogeneous Similarity Graph Neural Network on Electronic Health Records**, Z. Liu et al. 2021.
@@ -258,8 +260,10 @@ Over the past decade, the volume of EHR has exploded and will be in the future. 
 
 ### Standardization
 
-- [[pdf](https://arxiv.org/pdf/1911.12254.pdf)] - **A semi-autonomous approach to connecting proprietary EHR standards to FHIR**, M. Chapman, et al. 2019.
 
+- [[pdf](https://arxiv.org/pdf/2103.07589.pdf)] - **Application of HL7 FHIR in a Microservice Architecture for Patient Navigation on Registration and Appointments**, G. N. Bettoni, et al. 2021.
+
+- [[pdf](https://arxiv.org/pdf/1911.12254.pdf)] - **A semi-autonomous approach to connecting proprietary EHR standards to FHIR**, M. Chapman, et al. 2019.
 
 - [[pdf](https://arxiv.org/pdf/1901.07601)] - **CREATE: Cohort Retrieval Enhanced by Analysis of Text from Electronic Health Records using OMOP Common Data Model**, S. Liu et al. 2019.
 
