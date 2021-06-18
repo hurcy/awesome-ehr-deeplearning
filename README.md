@@ -28,6 +28,8 @@ Over the past decade, the volume of EHR has exploded and will be in the future. 
 
 ### Survey
 
+- [[pdf](https://arxiv.org/pdf/2105.01171.pdf)] - **Machine Learning Applications for Therapeutic Tasks with Genomics Data**, K. Huang, et al. 2021.
+
 - [[pdf](https://arxiv.org/pdf/2012.01976.pdf)] - **Patient similarity: methods and applications**, L. Dai, et al. 2020.
 
 - [[pdf](https://arxiv.org/pdf/1909.00384.pdf)] - **DeepHealth: Deep Learning for Health Informatics reviews, challenges, and opportunities on medical imaging,electronic health records, genomics, sensing, and online communication health**, G. H. Kwak, et al. 2019.
