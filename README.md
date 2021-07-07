@@ -281,7 +281,6 @@ Over the past decade, the volume of EHR has exploded and will be in the future. 
 
 ## Clinical Trial Recruitment
 
-- [[pdf](https://arxiv.org/pdf/2011.06663)] - **Patient Recruitment Using Electronic Health Records Under Selection Bias: a Two-phase Sampling Framework**, G. Zhang, et al. 2020.
 
 - [[pdf](https://arxiv.org/pdf/2006.08765.pdf)] - **COMPOSE: Cross-Modal Pseudo-Siamese Network for Patient Trial Matching**, J. Gao, et al. 2020.
 
