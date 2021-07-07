@@ -169,6 +169,8 @@ Over the past decade, the volume of EHR has exploded and will be in the future. 
 
 #### Prediction
 
+- [[pdf](https://arxiv.org/pdf/2104.01787.pdf)] - **Neural Clinical Event Sequence Prediction through Personalized Online Adaptive Learning**, J. M. Lee et al. 2021.
+
 - [[pdf](https://arxiv.org/pdf/2102.02340.pdf)] - **MUFASA: Multimodal Fusion Architecture Search for Electronic Health Records**, Z. Xu et al. 2021.
 
 - [[pdf](https://arxiv.org/pdf/2102.02340.pdf)] - **Multi-Time Attention Networks for Irregularly Sampled Time Series**, S. N. Shukla et al. 2021.
