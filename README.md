@@ -1,10 +1,10 @@
 # Awesome Deep Learning and EHRs 
 
-Curated list of awesome papers for electronic health records (EHR) mining, machine learning, and deep learning.
+A curated list of awesome papers for electronic health records (EHR) mining, machine learning, and deep learning.
 
 ## Background
 
-Over the past decade, the volume of EHR has exploded and will be in the future. Thanks to advances in machine learning and deep learning techniques, electronic health records have recognized as a powerful resource to tackle clinical challenges. We make a collection of must-read papers on various EHR topics - recent research trends, applications to predict patient outcomes, deployment in the real-world, and visualization of complex data.
+Over the past decade, the volume of EHR has exploded and will continue to do so in the future. Thanks to advances in machine learning and deep learning techniques, electronic health records have been recognized as a powerful resource to tackle clinical challenges. In this repo, we consolidate a collection of must-read papers on various EHR topics - recent research trends, applications to predict patient outcomes, deployment in the real-world, and visualization of complex data.
 
 ## Contents
 - [Survey](#survey)
